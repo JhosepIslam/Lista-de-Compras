@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lista Compras</string>
+    <string name="title_list">Lista de Compras</string>
+    <string name="txt_hint_compra">Ingrese un producto a comprar</string>
+    <string name="btn_ingresar_text">Agregar</string>
+    <string name="borrarLista">Borrar Lista</string>
+    <string name="about">Acerca de</string>
+    <string name="salir">Salir</string>
+    <string name="eliminarId">Eliminar registro</string>
+    <string name="editarId">Editar registro</string>
+
+    <string name="creador">Nombre: Jhosep Isaac Islam Chachagua</string>
+    <string name="creador_carnet">Canet: 25-0464-2017</string>
+</resources>

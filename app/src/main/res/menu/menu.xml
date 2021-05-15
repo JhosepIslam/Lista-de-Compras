@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/borrarLista"
+        android:title="@string/borrarLista"
+        android:icon="@drawable/ic_baseline_delete"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:id="@+id/about"
+        android:title="@string/about"
+        android:icon="@drawable/ic_baseline_info"
+        android:orderInCategory="101"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/salir"
+        android:title="@string/salir"
+        android:orderInCategory="102"
+        android:icon="@drawable/ic_baseline_exit_to_app_24"
+        app:showAsAction="ifRoom|withText" />
+</menu>
